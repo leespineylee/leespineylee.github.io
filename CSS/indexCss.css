@@ -262,7 +262,7 @@ a{
     margin-left: 15vw;
     height: 30em;
     width: 30em;
-    background-image: url("/assets/CCIMlogo.png");
+    background-image: url("assets/CCIMlogo.png");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
