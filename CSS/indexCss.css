@@ -262,7 +262,7 @@ a{
     margin-left: 15vw;
     height: 30em;
     width: 30em;
-    background-image: url("/leespineylee.github.io/blob/master/assets/ccim.png");
+    background-image: url("/assets/ccim.png");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -317,7 +317,7 @@ a{
     margin-right: 15vw;
     height: 25em;
     width: 40em;
-    background-image: url("leespineylee.github.io/assets/FIZZlogo.jpg");
+    background-image: url("/assets/FIZZlogo.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     z-index: -1;
