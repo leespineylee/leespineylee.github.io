@@ -158,7 +158,7 @@ a{
     margin-left: 15vw;
     height: 30em;
     width: 30em;
-    background-image: url("/Assets/CPSlogo.png");
+    background-image: url("/assets/CPSlogo.png");
     background-size: 90%;
     background-repeat: no-repeat;
     z-index: -1;
@@ -262,7 +262,7 @@ a{
     margin-left: 15vw;
     height: 30em;
     width: 30em;
-    background-image: url("/Assets/CCIMlogo.png");
+    background-image: url("/assets/CCIMlogo.png");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -317,7 +317,7 @@ a{
     margin-right: 15vw;
     height: 25em;
     width: 40em;
-    background-image: url("/Assets/FIZZLogo.jpg");
+    background-image: url("/assets/FIZZLogo.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     z-index: -1;
@@ -371,7 +371,7 @@ a{
     margin-left: 15vw;
     height: 30em;
     width: 30em;
-    background-image: url("/Assets/TAIlogo.png");
+    background-image: url("/assets/TAIlogo.png");
     background-size: 90%;
     background-repeat: no-repeat;
     z-index: -1;
@@ -475,7 +475,7 @@ a{
     margin-left: 15vw;
     height: 30em;
     width: 30em;
-    background-image: url("/Assets/HEINZlogo.png");
+    background-image: url("/assets/HEINZlogo.png");
     background-size: 60%;
     background-repeat: no-repeat;
     z-index: -1;
