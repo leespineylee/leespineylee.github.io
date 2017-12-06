@@ -515,3 +515,56 @@ a{
 .heinz-overlay h3 {
     font-weight: 300;
 }
+.pen-container {
+    width: 100vw;
+    padding-bottom: 5vh;
+    overflow: hidden;
+}
+
+.pen {
+    float: right;
+    height: 30em;
+    width: 30em;
+    background-image: url("/assets/codepen.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-right: 15vw;
+    z-index: -1;
+}
+
+.pen:hover .pen-overlay {
+    display: block;
+}
+
+.pen-overlay {
+    background-color: rgb(99, 6, 6);
+    /*R: 188 G: 188 B: 188*/
+    height: 95%;
+    width: 95%;
+    margin: .7em auto;
+    color: white;
+    padding: 20px;
+    display: none;
+    line-height: 20px;
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+.pen-overlay a {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.pen-overlay h1 {
+    font-weight: 200;
+}
+
+.pen-overlay h2 {
+    font-size: 2em;
+}
+
+.pen-overlay h3 {
+    font-weight: 300;
+}
